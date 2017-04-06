@@ -4,24 +4,22 @@ import argparse
 import os
 
 
-def get_noun_pool():
-    """
-    Load the list of words from nouns.txt and filter out any which are marked
-    as previously used.
-    If all words are marked as previously used, unmark all of them and return
-    the entire list.
-    """
-    pass
+FILENAME_NOUNS      = 'nouns.txt'
+FILENAME_ADJECTIVES = 'adjectives.txt'
 
 
-def get_adjective_pool():
+def get_word_pool(filename):
     """
-    Load the list of words from adjectives.txt and filter out any which are
+    Load the list of words from the given file and filter out any which are
     marked as previously used.
     If all words are marked as previously used, unmark all of them and return
     the entire list.
     """
-    pass
+    with open(filename) as f:
+        words = f.readlines()
+
+    # Filter out those which are marked, i.e. they start with !.
+    return [word.strip().lower() for word in words if not word.startswith('!')]
 
 
 def mark_noun_used(word):
@@ -52,7 +50,12 @@ def build_phrase():
     Build a "that's a _____ _____" phrase by selecting a noun and an adjective
     from the pool.
     """
-    pass
+    noun_pool = get_word_pool(FILENAME_NOUNS)
+    print noun_pool[:25]
+    if 'apple' in noun_pool:
+        print "yep there's an apple"
+    else:
+        print "no apples here"
 
 
 def post_tweet(text):

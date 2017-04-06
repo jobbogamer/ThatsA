@@ -80,6 +80,10 @@ def build_phrase():
     noun = noun_pool[noun_index]
     adjective = adjective_pool[adjective_index]
 
+    # Mark the chosen words as used.
+    mark_word_used(noun, FILENAME_NOUNS)
+    mark_word_used(adjective, FILENAME_ADJECTIVES)
+
     return "That's a {} {}".format(adjective, noun)
 
 

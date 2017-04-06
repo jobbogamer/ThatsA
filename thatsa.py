@@ -19,7 +19,15 @@ def get_word_pool(filename):
         words = f.readlines()
 
     # Filter out those which are marked, i.e. they start with !.
-    return [word.strip().lower() for word in words if not word.startswith('!')]
+    filtered_words = [word.strip().lower() for word in words if not word.startswith('!')]
+
+    # If there are no unmarked words left, unmark them all and return the
+    # entire list.
+    if len(filtered_words) == 0:
+        unmark_words(filename)
+        return get_word_pool(filename)
+
+    return filtered_words
 
 
 def mark_word_used(word, filename):
@@ -61,21 +69,8 @@ def build_phrase():
     Build a "that's a _____ _____" phrase by selecting a noun and an adjective
     from the pool.
     """    
-    mark_word_used('apple', FILENAME_NOUNS)
     noun_pool = get_word_pool(FILENAME_NOUNS)
-
-    if 'apple' in noun_pool:
-        print "yep there's an apple"
-    else:
-        print "no apples here"
-
-    unmark_words(FILENAME_NOUNS)
-    noun_pool = get_word_pool(FILENAME_NOUNS)
-
-    if 'apple' in noun_pool:
-        print "yep there's an apple"
-    else:
-        print "no apples here"
+    print len(noun_pool)
 
 
 def post_tweet(text):

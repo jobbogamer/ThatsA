@@ -4,9 +4,9 @@ import argparse
 import os
 from random import randint
 
-
-FILENAME_NOUNS      = 'nouns.txt'
-FILENAME_ADJECTIVES = 'adjectives.txt'
+FILE_PATH           = os.getenv('OPENSHIFT_REPO_DIR', './')
+FILENAME_NOUNS      = FILE_PATH + 'nouns.txt'
+FILENAME_ADJECTIVES = FILE_PATH + 'adjectives.txt'
 
 
 def get_word_pool(filename):

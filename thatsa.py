@@ -1,6 +1,7 @@
 
 import twitter
 import argparse
+import os
 
 
 def get_noun_pool():
@@ -63,7 +64,20 @@ def post_tweet(text):
     - THATSA_ACCESS_TOKEN_KEY
     - THATSA_ACCESS_TOKEN_SECRET
     """
-    pass
+    keys = {
+        'consumer_key':        os.getenv('THATSA_CONSUMER_KEY', None),
+        'consumer_secret':     os.getenv('THATSA_CONSUMER_SECRET', None),
+        'access_token_key':    os.getenv('THATSA_ACCESS_TOKEN_KEY', None),
+        'access_token_secret': os.getenv('THATSA_ACCESS_TOKEN_SECRET', None)
+    }
+
+    # If any of the environment variables couldn't be found, give up here.
+    for item in keys:
+        if keys[item] is None:
+            print 'Missing environment variable: {}'.format(item)
+            return
+
+    api = twitter.Api(**keys)
 
 
 if __name__ == '__main__':

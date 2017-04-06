@@ -1,0 +1,9 @@
+appdirs==1.4.3
+future==0.16.0
+oauthlib==2.0.2
+packaging==16.8
+pyparsing==2.2.0
+python-twitter==3.2.1
+requests==2.13.0
+requests-oauthlib==0.8.0
+six==1.10.0

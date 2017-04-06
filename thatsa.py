@@ -1,4 +1,8 @@
 
+import twitter
+import argparse
+
+
 def get_noun_pool():
     """
     Load the list of words from nouns.txt and filter out any which are marked
@@ -63,4 +67,20 @@ def post_tweet(text):
 
 
 if __name__ == '__main__':
-    pass
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-p', '--print', action='store_true', dest='to_console',
+                        help='print the phrase to the console instead of tweeting')
+    args = parser.parse_args()
+
+    # Get the phrase...
+    phrase = build_phrase()
+
+    # ...and either print it...
+    if args.to_console:
+        print phrase
+
+    # ... or tweet it.
+    else:
+        post_tweet(phrase)
+
+

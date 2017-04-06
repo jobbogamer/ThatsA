@@ -22,18 +22,29 @@ def get_word_pool(filename):
     return [word.strip().lower() for word in words if not word.startswith('!')]
 
 
-def mark_noun_used(word):
+def mark_word_used(word, filename):
     """
-    Update nouns.txt to reflect that `word` has been used.
+    Update the given file to reflect that `word` has been used, by prefixing
+    it with a !.
     """
-    pass
+    with open(filename) as f:
+        words = f.readlines()
+
+    with open(filename, 'w') as f:
+        new_words = ['!' + w if w.strip().lower() == word else w for w in words]
+        f.writelines(new_words)
 
 
-def mark_adjective_used(word):
+def unmark_words(filename):
     """
-    Update adjective.txt to reflect that `word` has been used.
+    Update the given file to remove all ! prefixes.
     """
-    pass
+    with open(filename) as f:
+        words = f.readlines()
+
+    with open(filename, 'w') as f:
+        new_words = [word[1:] if word.startswith('!') else word for word in words]
+        f.writelines(new_words)
 
 
 def a_or_an(word):
@@ -49,9 +60,18 @@ def build_phrase():
     """
     Build a "that's a _____ _____" phrase by selecting a noun and an adjective
     from the pool.
-    """
+    """    
+    mark_word_used('apple', FILENAME_NOUNS)
     noun_pool = get_word_pool(FILENAME_NOUNS)
-    print noun_pool[:25]
+
+    if 'apple' in noun_pool:
+        print "yep there's an apple"
+    else:
+        print "no apples here"
+
+    unmark_words(FILENAME_NOUNS)
+    noun_pool = get_word_pool(FILENAME_NOUNS)
+
     if 'apple' in noun_pool:
         print "yep there's an apple"
     else:

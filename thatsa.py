@@ -2,6 +2,7 @@
 import twitter
 import argparse
 import os
+from random import randint
 
 
 FILENAME_NOUNS      = 'nouns.txt'
@@ -70,7 +71,16 @@ def build_phrase():
     from the pool.
     """    
     noun_pool = get_word_pool(FILENAME_NOUNS)
-    print len(noun_pool)
+    adjective_pool = get_word_pool(FILENAME_ADJECTIVES)
+
+    # Pick a noun and an adjective at random.
+    noun_index = randint(0, len(noun_pool) - 1)
+    adjective_index = randint(0, len(adjective_pool) - 1)
+
+    noun = noun_pool[noun_index]
+    adjective = adjective_pool[adjective_index]
+
+    return "That's a {} {}".format(adjective, noun)
 
 
 def post_tweet(text):

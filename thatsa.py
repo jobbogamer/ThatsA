@@ -62,7 +62,14 @@ def a_or_an(word):
     letter to choose, but this can be overriden by adding "#a" or "#an" to
     the end of the word.
     """
-    pass
+    if word.endswith('#a'):
+        return 'a'
+    elif word.endswith('#an'):
+        return 'an'
+    elif word[0] in ['a', 'e', 'i', 'o', 'u']:
+        return 'an'
+    else:
+        return 'a'
 
 
 def build_phrase():
@@ -84,7 +91,15 @@ def build_phrase():
     mark_word_used(noun, FILENAME_NOUNS)
     mark_word_used(adjective, FILENAME_ADJECTIVES)
 
-    return "That's a {} {}".format(adjective, noun)
+    # Pick the correct article based on the adjective.
+    article = a_or_an(adjective)
+
+    # Now remove the article specifier from the adjective, if there is one.
+    if '#' in adjective:
+        end = adjective.rfind('#')
+        adjective = adjective[:end]
+
+    return "That's {} {} {}".format(article, adjective, noun)
 
 
 def post_tweet(text):

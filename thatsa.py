@@ -78,6 +78,7 @@ def post_tweet(text):
             return
 
     api = twitter.Api(**keys)
+    api.PostUpdate("test post, please ignore")
 
 
 if __name__ == '__main__':

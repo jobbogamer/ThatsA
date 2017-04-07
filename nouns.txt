@@ -50,7 +50,7 @@ amputee
 anchor
 android
 anger
-animal
+!animal
 ankle
 anklet
 ~anorexic
@@ -276,7 +276,7 @@ bifocal
 bike
 biker
 bikini
-bill
+!bill
 billboard
 ~billiards
 billionaire
@@ -546,7 +546,7 @@ cobble
 cobbler
 cobra
 cocaine
-cockatoo
+!cockatoo
 cockpit
 cockroach
 cocktail
@@ -694,7 +694,7 @@ dart
 dartboard
 dashboard
 dealer
-dealership
+!dealership
 dean
 deck
 deer
@@ -727,7 +727,7 @@ dipstick
 dirt
 disc
 dish
-dishcloth
+!dishcloth
 disk
 doctor
 doe
@@ -769,7 +769,7 @@ druggist
 drugstore
 drum
 drummer
-drunk
+!drunk
 drunkard
 drywall
 duck
@@ -874,7 +874,7 @@ fiddle
 fig
 fighter
 figurine
-file
+!file
 filet
 finch
 finger
@@ -1098,7 +1098,7 @@ gravy
 gray
 grease
 greenback
-greenery
+!greenery
 greengrocer
 greenhouse
 ~greens
@@ -1527,7 +1527,7 @@ lobster
 lock
 locker
 locket
-lockjaw
+!lockjaw
 lockout
 locksmith
 locomotive
@@ -2275,7 +2275,7 @@ prizefight
 prizefighter
 prodigy
 producer
-product
+!product
 production
 professor
 program
@@ -2450,7 +2450,7 @@ rebel
 rebellion
 receipt
 receiver
-recipe
+!recipe
 recorder
 recording
 recruiter
@@ -2491,7 +2491,7 @@ repayment
 repellent
 report
 reporter
-repression
+!repression
 reptile
 resistance
 resistor
@@ -2510,7 +2510,7 @@ revolution
 revolutionary
 revolver
 rhinestone
-rhino
+!rhino
 rhinoceros
 rib
 ribbon
@@ -3174,7 +3174,7 @@ spokesperson
 spokeswoman
 sponge
 spoon
-spoonful
+!spoonful
 sport
 sportscast
 sportscaster
@@ -3213,7 +3213,7 @@ squid
 squirrel
 stabilizer
 stack
-stadium
+!stadium
 staff
 staffer
 stag
@@ -3474,7 +3474,7 @@ sympathizer
 sympathy
 symphony
 syntax
-synthesizer
+!synthesizer
 syringe
 syrup
 table
@@ -4147,7 +4147,7 @@ whirlwind
 whisk
 whiskey
 whistle
-whistle-blower
+!whistle-blower
 whole-wheat
 widow
 widower

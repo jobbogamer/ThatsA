@@ -23,7 +23,7 @@ abnormal
 abolitionary
 abominable
 aboriginal
-above
+~above
 aboveground
 abrupt
 absent

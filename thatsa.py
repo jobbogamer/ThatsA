@@ -20,7 +20,8 @@ def get_word_pool(filename):
         words = f.readlines()
 
     # Filter out those which are marked, i.e. they start with !.
-    filtered_words = [word.strip().lower() for word in words if not word.startswith('!')]
+    filtered_words = [word.strip().lower() for word in words if not word.startswith('!') and
+                                                                not word.startswith('~')]
 
     # If there are no unmarked words left, unmark them all and return the
     # entire list.

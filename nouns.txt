@@ -1029,10 +1029,10 @@ giant
 gift
 gill
 gin
-!ginger
+~ginger
 gingersnap
 ginkgo
-!ginseng
+~ginseng
 gipsy
 giraffe
 girl
@@ -2334,7 +2334,7 @@ question
 queue
 quiche
 quicksand
-!quick-witted
+~quick-witted
 quid
 quintessence
 quintet

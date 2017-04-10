@@ -3306,7 +3306,7 @@ foreign
 foreknowable
 forensic
 foreseeable
-!forest
+~forest
 forestial
 forfeitable
 forgeable

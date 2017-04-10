@@ -719,7 +719,7 @@ bibliological
 bibliomaniacal
 bibliophagous
 bibliophilic
-bicolor
+bicolour
 big
 big-boned
 big-hearted
@@ -1386,7 +1386,7 @@ coercionary
 coercive
 coessential
 coexistent
-coffee-colored
+coffee-coloured
 cogitative
 cognisant
 cognitive
@@ -1409,7 +1409,7 @@ collusive
 colluvium
 colonial
 colonisable
-coloristic
+colouristic
 colossal
 colour-blind
 !colourable
@@ -1714,7 +1714,7 @@ cork
 corked
 corking
 corky
-corn-colored
+corn-coloured
 cornmeal
 !corny
 coronary
@@ -1812,7 +1812,7 @@ crawly
 crazed
 crazy
 cream
-cream-colored
+cream-coloured
 creamy
 creased
 creasy
@@ -2497,7 +2497,7 @@ doughty
 doughy
 dour
 doused
-dove-colored
+dove-coloured
 dovish
 dowdy
 downcast
@@ -3213,7 +3213,7 @@ fizzy
 flabby
 flaky
 flamboyant
-flame-colored
+flame-coloured
 flameproof
 flaming
 flammable
@@ -3237,7 +3237,7 @@ flayed
 fleece
 fleecy
 fleeting
-flesh-colored
+flesh-coloured
 fleshless
 fleshly
 fleshy
@@ -6599,7 +6599,7 @@ rookie
 roomy
 ropable
 ropeable
-rose-colored
+rose-coloured
 roseate
 roselike
 rosy
@@ -6791,7 +6791,7 @@ selenium
 self-assured
 self-aware
 self-centered
-self-colored
+self-coloured
 self-conceited
 self-contradiction
 self-deprecating
@@ -7364,7 +7364,7 @@ straightforward
 strained
 strange
 strategic
-straw-colored
+straw-coloured
 streaky
 streetsmart
 streetwise
@@ -7838,7 +7838,7 @@ touristic
 touristy
 tourmaline
 tourmalinic
-tow-colored
+tow-coloured
 towering
 toxic
 toxicological
@@ -8256,7 +8256,7 @@ unhumanitarian
 unhydrated
 unhygenic
 unhygienic
-unicolor
+unicolour
 unidentifiable
 unidentified
 uniform
@@ -8651,7 +8651,7 @@ vermillion
 verminous
 vermivorous
 vernal
-versicolor
+versicolour
 vertical
 vestigial
 vexatious

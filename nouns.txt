@@ -570,7 +570,7 @@ collie
 cologne
 colon
 colonel
-!color
+!colour
 colt
 column
 comb
@@ -4099,7 +4099,7 @@ watchdog
 watchman
 watchtower
 water
-watercolor
+watercolour
 ~watercress
 waterfall
 watermark

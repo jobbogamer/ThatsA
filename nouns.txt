@@ -4110,7 +4110,7 @@ wattage
 wax
 weakling
 weapon
-weaponry
+~weaponry
 weasel
 weather
 web

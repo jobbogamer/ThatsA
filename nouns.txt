@@ -13,7 +13,7 @@ accountant
 ace
 acid
 ~acne
-acorn
+!acorn
 acrobat
 ~across
 actor
@@ -56,7 +56,7 @@ anklet
 ~anorexic
 ant
 antelope
-antenna
+!antenna
 antifreeze
 apartment
 apathetic
@@ -76,7 +76,7 @@ arc
 arcade
 arch
 archaeologist
-archer
+!archer
 archery
 architect
 architecture
@@ -277,7 +277,7 @@ bike
 biker
 bikini
 !bill
-billboard
+!billboard
 ~billiards
 billionaire
 bimbo
@@ -304,7 +304,7 @@ block
 blonde
 ~blood
 blouse
-blowgun
+!blowgun
 blueberry
 bluebird
 boar
@@ -377,7 +377,7 @@ burglar
 bus
 busboy
 business
-businessman
+!businessman
 businesswoman
 butcher
 butler
@@ -518,7 +518,7 @@ circus
 city
 clam
 clarinet
-claw
+!claw
 clergy
 clergyman
 clergywoman
@@ -535,7 +535,7 @@ clothesline
 clothespin
 clothing
 cloud
-clover
+!clover
 cloverleaf
 clown
 club
@@ -544,7 +544,7 @@ coal
 coat
 cobble
 cobbler
-cobra
+!cobra
 cocaine
 !cockatoo
 cockpit
@@ -563,14 +563,14 @@ cognac
 coin
 colander
 coliseum
-collar
+!collar
 collarbone
 college
 collie
 cologne
 colon
 colonel
-color
+!color
 colt
 column
 comb
@@ -604,7 +604,7 @@ cookbook
 cookie
 cooking
 cookout
-copper
+!copper
 copperhead
 coral
 cord
@@ -656,7 +656,7 @@ cross
 crossbar
 ~crossbones
 crossbow
-crosswalk
+!crosswalk
 crow
 crowbar
 crowd
@@ -696,7 +696,7 @@ dashboard
 dealer
 !dealership
 dean
-deck
+!deck
 deer
 den
 denim
@@ -755,7 +755,7 @@ dress
 dresser
 dressmaker
 driftwood
-drill
+!drill
 drink
 drivel
 driver
@@ -865,7 +865,7 @@ fencing
 fender
 fennel
 fern
-ferret
+!ferret
 ferry
 ferryboat
 festival
@@ -914,7 +914,7 @@ flax
 flea
 fleece
 flesh
-flick
+!flick
 flood
 floor
 flower
@@ -1029,10 +1029,10 @@ giant
 gift
 gill
 gin
-ginger
+!ginger
 gingersnap
 ginkgo
-ginseng
+!ginseng
 gipsy
 giraffe
 girl
@@ -1194,7 +1194,7 @@ handgun
 handle
 handlebar
 handrail
-handshake
+!handshake
 handyman
 hangar
 hanger
@@ -1205,7 +1205,7 @@ hardwood
 harmonica
 harp
 harpist
-harpoon
+!harpoon
 harpsichord
 harvest
 harvester
@@ -1219,7 +1219,7 @@ hay
 haze
 hazel
 hazelnut
-head
+!head
 headache
 headboard
 headgear
@@ -1243,7 +1243,7 @@ herb
 herd
 hermit
 heroin
-highway
+!highway
 hijacker
 hiker
 hill
@@ -1358,7 +1358,7 @@ jibe
 jig
 jigsaw
 jock
-jockey
+!jockey
 jogger
 joiner
 joint
@@ -1414,7 +1414,7 @@ kitty
 kiwi
 kleenex
 kleptomaniac
-klutz
+!klutz
 knapsack
 knee
 kneecap
@@ -1482,7 +1482,7 @@ leotard
 leper
 leprechaun
 letter
-letterhead
+!letterhead
 lettuce
 levee
 level
@@ -1491,7 +1491,7 @@ liar
 lice
 license
 licorice
-life
+!life
 lifeboat
 lifeguard
 lifesaver
@@ -1548,7 +1548,7 @@ loop
 loot
 looter
 lottery
-loudmouth
+!loudmouth
 loudspeaker
 lounge
 louse
@@ -1561,7 +1561,7 @@ lumbar
 lumber
 lumberjack
 lumberman
-lumberyard
+!lumberyard
 lump
 lung
 lyric
@@ -1647,7 +1647,7 @@ mask
 mason
 mastiff
 mat
-matchbook
+!matchbook
 matchbox
 ~matchless
 matchmaker
@@ -1669,7 +1669,7 @@ meadow
 meadowlark
 meal
 meat
-meatball
+!meatball
 meatloaf
 meaty
 mechanic
@@ -1783,7 +1783,7 @@ motel
 moth
 mothball
 moth-eaten
-motor
+!motor
 motorbike
 motorboat
 motorcycle
@@ -1851,7 +1851,7 @@ narc
 narcotic
 narrator
 nation
-nature
+!nature
 navel
 navy
 neanderthal
@@ -1865,14 +1865,14 @@ nectarine
 needle
 needlepoint
 needlework
-neighbor
+!neighbor
 neighborhood
 neptune
 nerd
 nest
 net
 network
-neurologist
+!neurologist
 neurology
 neuron
 newcomer
@@ -2063,7 +2063,7 @@ peddle
 peddler
 pedestal
 pedestrian
-pediatric
+!pediatric
 pediatrician
 ~pediatrics
 pedicure
@@ -2132,7 +2132,7 @@ piccolo
 pick
 pickax
 pickaxe
-picnic
+!picnic
 picture
 pidgin
 pie
@@ -2170,7 +2170,7 @@ pizzeria
 place
 plan
 plane
-planet
+!planet
 planetarium
 plank
 plankton
@@ -2182,7 +2182,7 @@ plaster
 plasterboard
 plastic
 plate
-platoon
+!platoon
 platypus
 playboy
 player
@@ -2243,7 +2243,7 @@ porter
 porterhouse
 possum
 post
-postage
+!postage
 poster
 posy
 pot
@@ -2255,7 +2255,7 @@ powder
 power
 prairie
 prawn
-predator
+!predator
 preschool
 preschooler
 pretzel
@@ -2269,7 +2269,7 @@ principal
 printer
 prism
 prison
-prisoner
+!prisoner
 prize
 prizefight
 prizefighter
@@ -2334,7 +2334,7 @@ question
 queue
 quiche
 quicksand
-quick-witted
+!quick-witted
 quid
 quintessence
 quintet
@@ -2357,7 +2357,7 @@ racer
 racetrack
 raceway
 racism
-racist
+!racist
 rack
 racket
 racketeer
@@ -2426,7 +2426,7 @@ rating
 ratio
 ration
 rationalism
-rationalist
+!rationalist
 rationalization
 rattan
 rattle
@@ -2459,7 +2459,7 @@ redcoat
 redhead
 redneck
 redwood
-reef
+!reef
 ref
 referee
 reforestation
@@ -2551,7 +2551,7 @@ roadway
 roadwork
 roast
 roaster
-rob
+!rob
 robber
 robbery
 robe
@@ -2561,7 +2561,7 @@ rock
 rocker
 rocket
 rodent
-rodeo
+!rodeo
 rollerblade
 roller-skate
 romance
@@ -2607,7 +2607,7 @@ runner
 runt
 runway
 rust
-rye
+!rye
 saber
 sabotage
 saboteur
@@ -2744,7 +2744,7 @@ scrimmage
 script
 scrooge
 scrubber
-scuba
+!scuba
 sculptor
 sculpture
 scum
@@ -2753,7 +2753,7 @@ sea
 seabed
 seaboard
 seacoast
-seafarer
+!seafarer
 seafood
 seal
 sealskin
@@ -2985,7 +2985,7 @@ skydiver
 skyjacker
 skylight
 skyscraper
-slab
+!slab
 slacker
 slammer
 slang
@@ -3062,7 +3062,7 @@ snowplow
 snowshoe
 snowstorm
 snub-nosed
-soap
+!soap
 soapbox
 ~soapsuds
 ~soberness
@@ -3131,7 +3131,7 @@ spaghetti
 spaniel
 ~spanish
 ~spareribs
-spark
+!spark
 sparkler
 sparrow
 spat
@@ -3145,7 +3145,7 @@ specimen
 speckle
 ~specs
 spectacle
-spectator
+!spectator
 spectroscope
 spectrum
 speculator
@@ -3320,7 +3320,7 @@ storage
 store
 storefront
 storehouse
-storekeeper
+!storekeeper
 storeroom
 stork
 storm
@@ -3349,13 +3349,13 @@ streetlight
 strength
 streptococcus
 streptomycin
-stress
+!stress
 stretcher
 ~strictness
 strife
 strikeout
 striker
-string
+!string
 stringer
 stripe
 stroller
@@ -3379,7 +3379,7 @@ sucker
 sud
 suffix
 sugar
-sugarcane
+!sugarcane
 sugarcoat
 suicide
 suit
@@ -3416,11 +3416,11 @@ supermarket
 supernova
 superpower
 superscript
-superstar
+!superstar
 superstition
 supertanker
 supervisor
-supper
+!supper
 supplement
 supply
 supporter
@@ -3450,7 +3450,7 @@ sweater
 sweatshirt
 sweatshop
 sweeper
-sweetener
+!sweetener
 sweet-talk
 swimmer
 swimsuit
@@ -3480,7 +3480,7 @@ syrup
 table
 tablecloth
 tablespoon
-tablet
+!tablet
 tableware
 tachometer
 tack
@@ -3622,7 +3622,7 @@ threat
 threesome
 thresh
 thresher
-threshold
+!threshold
 ~thriftiness
 thriller
 throat
@@ -3768,7 +3768,7 @@ treble
 tree
 ~treeless
 trefoil
-trek
+!trek
 tremor
 trench
 trend
@@ -3798,7 +3798,7 @@ truck
 trucker
 trunk
 truth
-t-shirt
+!t-shirt
 tuba
 tube
 tuber
@@ -3949,7 +3949,7 @@ vegetarianism
 vegetation
 veggie
 vehemence
-vehicle
+!vehicle
 veil
 vein
 velcro
@@ -3966,7 +3966,7 @@ ventilation
 ventilator
 ~venus
 veranda
-verb
+!verb
 verdict
 verdigris
 vermin
@@ -4117,7 +4117,7 @@ web
 website
 wedding
 weed
-week
+!week
 weekday
 weekend
 weeknight
@@ -4138,7 +4138,7 @@ wheelbarrow
 wheelchair
 wheeler-dealer
 whey
-whiff
+!whiff
 whim
 whimper
 whimsy
@@ -4199,7 +4199,7 @@ witchcraft
 witticism
 wolf
 wolverine
-woman
+!woman
 womanhood
 womb
 wood
@@ -4216,7 +4216,7 @@ worshiper
 wreck
 wreckage
 wrecker
-wrench
+!wrench
 wrestler
 wrinkle
 wristband

@@ -755,7 +755,7 @@ bite-sized
 bitter
 bitty
 bitumen
-!bixbite
+~bixbite
 bizarre
 black
 black-coated
@@ -4359,7 +4359,7 @@ inverse
 inversive
 invigorative
 invincible
-!invisibility
+~invisibility
 invisible
 involuntary
 involved

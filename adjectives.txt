@@ -944,7 +944,7 @@ busying
 butterfingered
 buttery
 byzantine
-byzantium
+!byzantium
 !cabbagy
 cacophonophilic
 cacotopic
@@ -1178,7 +1178,7 @@ cheesecloth
 cheesy
 chelonaphilic
 chemic
-chemical
+!chemical
 chemophobic
 cherishable
 cherubic
@@ -2117,7 +2117,7 @@ dendrachate
 dendric
 dendriform
 dendritic
-dendrochronological
+!dendrochronological
 dendroid
 dendrological
 dendrophagous
@@ -2161,7 +2161,7 @@ deranged
 derelict
 derisible
 derisive
-derivable
+!derivable
 derivational
 derivative
 dermal
@@ -2367,7 +2367,7 @@ disloyal
 dismal
 dismissible
 dismissive
-dismountable
+!dismountable
 disobedient
 disordered
 disorganized
@@ -3077,7 +3077,7 @@ familiar
 familyish
 famished
 famous
-fanatical
+!fanatical
 fanciful
 fancy
 far
@@ -5124,7 +5124,7 @@ nepotistic
 nepotistical
 nerdy
 nervous
-nettlesome
+!nettlesome
 neuroeconomic
 neuroeconomical
 neurological
@@ -5764,7 +5764,7 @@ pestilent
 petaled
 petaline
 petalled
-petalless
+!petalless
 petalous
 petit
 petit-bourgeois
@@ -6373,7 +6373,7 @@ rebel
 rebellious
 rebuffable
 rebuttable
-receivable
+!receivable
 recent
 receptive
 rechargeable
@@ -6970,7 +6970,7 @@ shifty
 shimmery
 shiny
 shocked
-shockproof
+!shockproof
 shoddy
 shogunal
 short
@@ -7054,7 +7054,7 @@ sky-blue
 skyborne
 skyscraping
 slandered
-slate
+!slate
 slavish
 slavocratic
 sleepful
@@ -8347,7 +8347,7 @@ unmystical
 unmystified
 unmythical
 unmythological
-unnarrow-minded
+!unnarrow-minded
 unnational
 unnationalised
 unnationalistic

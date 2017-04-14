@@ -2,7 +2,7 @@ aardvark
 abacus
 abalone
 abdomen
-abdominal
+!abdominal
 ~above
 abscess
 absinthe
@@ -478,7 +478,7 @@ cheek
 cheekbone
 cheese
 cheeseburger
-cheesecake
+!cheesecake
 cheesecloth
 cheetah
 chef
@@ -787,7 +787,7 @@ dust
 duster
 dustpan
 dwarf
-*
+!*
 eagle
 ear
 earache
@@ -1170,13 +1170,13 @@ haircut
 hairdo
 hairdresser
 hairdressing
-hairline
+!hairline
 hairpiece
 hairpin
 hairstyle
 hairstylist
 hall
-hallway
+!hallway
 halo
 halogen
 ham
@@ -1285,7 +1285,7 @@ human
 hunter
 huntsman
 hurdler
-hurricane
+!hurricane
 hyacinth
 hydrant
 hyena
@@ -1731,7 +1731,7 @@ minibike
 minibus
 minicam
 mining
-minion
+!minion
 mink
 minor
 minority
@@ -2117,7 +2117,7 @@ petal
 petroleum
 phlegm
 phone
-photo
+!photo
 photocopier
 photograph
 photographer
@@ -2176,7 +2176,7 @@ plank
 plankton
 plant
 plantain
-plantation
+!plantation
 plasma
 plaster
 plasterboard
@@ -2208,7 +2208,7 @@ poem
 poet
 poetess
 poetry
-poinsettia
+!poinsettia
 point
 pointer
 ~pointless
@@ -2980,7 +2980,7 @@ skit
 skulduggery
 skull
 skullcap
-skunk
+!skunk
 sky
 skydiver
 skyjacker
@@ -3990,7 +3990,7 @@ viewer
 viewfinder
 viewpoint
 vigil
-vigilance
+!vigilance
 vigilante
 vignette
 vigor

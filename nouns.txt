@@ -787,7 +787,6 @@ dust
 duster
 dustpan
 dwarf
-!*
 eagle
 ear
 earache

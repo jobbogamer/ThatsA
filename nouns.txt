@@ -61,7 +61,7 @@ antifreeze
 apartment
 apathetic
 ape
-apostrophe
+!apostrophe
 ~apparel
 appendix
 appetite
@@ -77,7 +77,7 @@ arcade
 arch
 archaeologist
 !archer
-archery
+!archery
 architect
 architecture
 archive
@@ -93,7 +93,7 @@ armpit
 armrest
 army
 arrow
-arrowhead
+!arrowhead
 arsonist
 ~art
 ~ash
@@ -143,11 +143,11 @@ bacteria
 badminton
 bag
 bagel
-baggage
+!baggage
 bagpipe
 ~bagpipes
 bait
-baker
+!baker
 bakery
 balance
 balcony
@@ -171,7 +171,7 @@ bandage
 band-aid
 bandana
 bandit
-bandstand
+!bandstand
 banister
 banjo
 bank
@@ -217,7 +217,7 @@ bathrobe
 bathroom
 bathtub
 baton
-battalion
+!battalion
 batter
 battery
 bay
@@ -320,7 +320,7 @@ bolt
 bomb
 bonbon
 bone
-bongo
+!bongo
 bonus
 book
 bookcase
@@ -388,7 +388,7 @@ cab
 cabinet
 cabinetmaker
 cable
-caboose
+!caboose
 cactus
 cafe
 cafeteria
@@ -462,13 +462,13 @@ cemetery
 cereal
 cerebellum
 ceremony
-certificate
+!certificate
 cervix
 chain
 chair
 chairlift
 chalk
-chalkboard
+!chalkboard
 chauffeur
 check
 checkbook
@@ -490,7 +490,7 @@ chest
 chestnut
 chick
 chicken
-chickenpox
+!chickenpox
 chickpea
 chihuahua
 child
@@ -514,7 +514,7 @@ cigarette
 cilantro
 cinnamon
 circle
-circus
+!circus
 city
 clam
 clarinet
@@ -709,7 +709,7 @@ dessert
 destroyer
 detective
 detergent
-developer
+!developer
 devil
 dew
 dewdrop
@@ -733,7 +733,7 @@ doctor
 doe
 dog
 dollar
-dollhouse
+!dollhouse
 dolphin
 dolt
 domino
@@ -761,7 +761,7 @@ drivel
 driver
 driveway
 drizzle
-drop
+!drop
 droplet
 dropout
 drug
@@ -774,7 +774,7 @@ drunkard
 drywall
 duck
 duckling
-duct
+!duct
 dude
 duet
 dump
@@ -811,12 +811,12 @@ elk
 elm
 embryo
 emerald
-engineer
+!engineer
 equalizer
 equipment
 eraser
 escalator
-eve
+!eve
 evergreen
 ewe
 explorer
@@ -825,7 +825,7 @@ exterminator
 extinguisher
 eye
 eyeball
-eyebrow
+!eyebrow
 eyeglass
 ~eyeglasses
 eyelash
@@ -893,7 +893,7 @@ fireman
 fireplace
 fish
 fishbowl
-fisherman
+!fisherman
 fishhook
 fishing
 fishnet
@@ -924,7 +924,7 @@ flu
 fluff
 fluid
 fluoride
-flute
+!flute
 flutist
 fog
 foil
@@ -1122,7 +1122,7 @@ grocery
 groin
 grommet
 grouch
-ground
+!ground
 groundhog
 group
 grout
@@ -1154,7 +1154,7 @@ gutter
 guy
 gym
 gymnasium
-gymnast
+!gymnast
 ~gymnastics
 gynecologist
 gynecology
@@ -1207,7 +1207,7 @@ harp
 harpist
 !harpoon
 harpsichord
-harvest
+!harvest
 harvester
 hash
 hashish
@@ -1266,7 +1266,7 @@ homemaker
 honeybee
 honeycomb
 honeysuckle
-hood
+!hood
 hoodlum
 hoof
 hook
@@ -1319,7 +1319,7 @@ insecticide
 insectivore
 insignia
 instep
-interpreter
+!interpreter
 interrogator
 invoice
 iron
@@ -1338,7 +1338,7 @@ jade
 jaguar
 jail
 jam
-janitor
+!janitor
 jar
 jaw
 jawbone
@@ -1467,7 +1467,7 @@ lawyer
 leader
 leadership
 leaf
-leaflet
+!leaflet
 leak
 leakage
 lecturer
@@ -1509,7 +1509,7 @@ lion
 lioness
 lip
 liposuction
-liqueur
+!liqueur
 liquid
 liquor
 listener
@@ -1534,7 +1534,7 @@ locomotive
 locust
 lodge
 lodger
-lodging
+!lodging
 loft
 log
 loganberry
@@ -1595,7 +1595,7 @@ mailbox
 mailman
 mainframe
 malaria
-male
+!male
 mall
 malt
 man
@@ -1665,7 +1665,7 @@ matting
 mattress
 mayonnaise
 maze
-meadow
+!meadow
 meadowlark
 meal
 meat
@@ -1754,7 +1754,7 @@ mitt
 mitten
 mobster
 moccasin
-mocha
+!mocha
 mockingbird
 moisture
 molar
@@ -1798,7 +1798,7 @@ mouser
 mousetrap
 mouth
 mouthful
-mouthpiece
+!mouthpiece
 mouthwash
 movement
 mower
@@ -1816,7 +1816,7 @@ mulch
 mule
 mullet
 multimillionaire
-multiplex
+!multiplex
 mummy
 ~mumps
 ~munchies
@@ -1832,11 +1832,11 @@ mushroom
 music
 musician
 musket
-musketeer
+!musketeer
 muslin
 mussel
 mustache
-mustang
+!mustang
 mutant
 mutt
 muzzle
@@ -1892,9 +1892,9 @@ nitrate
 nitrogen
 nitroglycerin
 nitroglycerine
-nitty-gritty
+!nitty-gritty
 nitwit
-noblewoman
+!noblewoman
 nomad
 noodle
 noose
@@ -1943,7 +1943,7 @@ oceanography
 octagon
 octogenarian
 octopi
-octopus
+!octopus
 odometer
 office
 officer
@@ -1955,7 +1955,7 @@ oncology
 onion
 opera
 opium
-optometrist
+!optometrist
 optometry
 opulence
 orange
@@ -1994,7 +1994,7 @@ pain
 painkiller
 paint
 paintbrush
-painter
+!painter
 painting
 pair
 pajamas
@@ -2072,7 +2072,7 @@ pedometer
 peekaboo
 peep
 peephole
-peg
+!peg
 pekinese
 pelican
 pellet
@@ -2251,8 +2251,8 @@ potassium
 potato
 poultry
 pound
-powder
-power
+!powder
+!power
 prairie
 prawn
 !predator
@@ -2432,7 +2432,7 @@ rattan
 rattle
 rattler
 rattlesnake
-rattrap
+!rattrap
 rave
 rawhide
 ray
@@ -2443,7 +2443,7 @@ reactionary
 reactivation
 reactor
 reader
-realtor
+!realtor
 reaper
 rear
 rebel
@@ -2456,7 +2456,7 @@ recording
 recruiter
 rectangle
 redcoat
-redhead
+!redhead
 redneck
 redwood
 !reef
@@ -2509,7 +2509,7 @@ revolt
 revolution
 revolutionary
 revolver
-rhinestone
+!rhinestone
 !rhino
 rhinoceros
 rib
@@ -2595,7 +2595,7 @@ rucksack
 rudder
 ruffian
 rug
-rugby
+!rugby
 rule
 ruler
 rum
@@ -2686,7 +2686,7 @@ sax
 saxophone
 saxophonist
 scab
-scabby
+!scabby
 ~scabies
 scaffolding
 scale
@@ -2762,7 +2762,7 @@ seamstress
 seance
 seaplane
 seaport
-searcher
+!searcher
 searchlight
 seascape
 seashell
@@ -2825,7 +2825,7 @@ semifinal
 semifinalist
 senator
 sender
-senior
+!senior
 ~senselessness
 sensibility
 sensor
@@ -2840,7 +2840,7 @@ serfdom
 sergeant
 serpent
 serum
-servant
+!servant
 server
 servitude
 sesame
@@ -2936,7 +2936,7 @@ signboard
 significant
 signpost
 silencer
-silhouette
+!silhouette
 silicon
 silk
 silk-screen
@@ -2972,7 +2972,7 @@ skier
 skillet
 skin
 skinhead
-skipper
+!skipper
 skirmish
 skirt
 skit
@@ -3063,7 +3063,7 @@ snowshoe
 snowstorm
 snub-nosed
 !soap
-soapbox
+!soapbox
 ~soapsuds
 ~soberness
 sobriety
@@ -3150,7 +3150,7 @@ spectroscope
 spectrum
 speculator
 speech
-speedboat
+!speedboat
 speedometer
 speedway
 speedy
@@ -3205,7 +3205,7 @@ squad
 squadron
 squalor
 square
-squash
+!squash
 squaw
 ~squeamishness
 squeegee
@@ -3234,7 +3234,7 @@ stance
 standby
 stand-in
 standout
-staple
+!staple
 stapler
 star
 starboard
@@ -3288,7 +3288,7 @@ stick
 sticker
 stimulation
 stimulus
-stinger
+!stinger
 stingray
 stink
 stinker
@@ -3296,7 +3296,7 @@ stint
 stipend
 stipulation
 stirrup
-stitch
+!stitch
 stock
 stockade
 stockbroker
@@ -3394,7 +3394,7 @@ sunblock
 sunbonnet
 sunburn
 sundae
-sunfish
+!sunfish
 sunflower
 ~sunglasses
 sunlamp
@@ -3406,9 +3406,9 @@ sunset
 sunshine
 sunspot
 sunstroke
-suntan
+!suntan
 sunup
-super
+!super
 superhighway
 superhuman
 superman
@@ -3458,7 +3458,7 @@ swindler
 swine
 swinger
 switch
-switchblade
+!switchblade
 switchboard
 switch-hitter
 sword
@@ -3466,7 +3466,7 @@ swordfish
 swordplay
 swordsman
 syllable
-syllabus
+!syllabus
 symbol
 symbolism
 symmetry
@@ -3481,16 +3481,16 @@ table
 tablecloth
 tablespoon
 !tablet
-tableware
+!tableware
 tachometer
 tack
 tackle
 taco
 tadpole
 taffy
-tag
+!tag
 tail
-tailgate
+!tailgate
 tailor
 tailpipe
 tailspin
@@ -3522,7 +3522,7 @@ tart
 taskmaster
 taster
 tattoo
-taurus
+!taurus
 taxi
 taxidermist
 tea
@@ -3595,7 +3595,7 @@ texture
 ~thanks
 thanksgiving
 theater
-theatre
+!theatre
 theft
 theme
 theology
@@ -3737,7 +3737,7 @@ traitor
 tramp
 trampoline
 trance
-transgressor
+!transgressor
 transience
 transient
 transistor
@@ -3751,7 +3751,7 @@ trap
 trapdoor
 trapeze
 trapezoid
-trash
+!trash
 trauma
 traveler
 traveller
@@ -3808,7 +3808,7 @@ tulip
 tumbleweed
 tummy
 tumor
-tuna
+!tuna
 tundra
 tuner
 tungsten
@@ -3877,7 +3877,7 @@ underdog
 undergarment
 ~underpants
 underpass
-undershirt
+!undershirt
 ~undershorts
 underwear
 unicorn
@@ -4009,7 +4009,7 @@ violinist
 violist
 violoncello
 viper
-virgo
+!virgo
 virtue
 virtuoso
 virus
@@ -4027,7 +4027,7 @@ vocation
 vodka
 vogue
 voice
-void
+!void
 volcano
 volley
 volleyball
@@ -4157,7 +4157,7 @@ wig
 wildcat
 wildebeest
 wilderness
-wildfire
+!wildfire
 wildflower
 wildlife
 wile
@@ -4194,7 +4194,7 @@ wisecrack
 wish
 wishbone
 wit
-witch
+!witch
 witchcraft
 witticism
 wolf
@@ -4214,7 +4214,7 @@ worker
 worm
 worshiper
 wreck
-wreckage
+!wreckage
 wrecker
 !wrench
 wrestler
@@ -4232,7 +4232,7 @@ x-ray
 xylophone
 yacht
 yachtsman
-yak
+!yak
 yam
 yankee
 yard

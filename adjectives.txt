@@ -204,7 +204,7 @@ alphameric
 alphanumeric
 alright
 alternative
-altophobic
+!altophobic
 altruistic
 amaranth
 amateur
@@ -260,12 +260,12 @@ anachronistic
 anachronous
 anaemic
 anaesthetic
-analogical
+!analogical
 analogistic
 analogous
 analytical
 anarchic
-anarchistic
+!anarchistic
 anarthric
 anarthrous
 anatomical
@@ -439,7 +439,7 @@ aragonite
 arbitrary
 arboraceous
 arboreal
-arbored
+!arbored
 arboreous
 arborescent
 arboresque
@@ -533,7 +533,7 @@ astrophotographic
 astrophysical
 astute
 asyllabic
-atheistic
+!atheistic
 athletic
 atmospheric
 atomic
@@ -560,7 +560,7 @@ authentic
 authorial
 authoritarian
 authoritative
-authorized
+!authorized
 autobiographical
 autographic
 autographical
@@ -638,7 +638,7 @@ barbaric
 barbarous
 bardic
 bardish
-bardlike
+!bardlike
 bardy
 !bare
 bared
@@ -656,7 +656,7 @@ baseborn
 basehearted
 bashful
 basic
-batiste
+!batiste
 battle-scarred
 battlesome
 batty
@@ -664,7 +664,7 @@ beachy
 beaming
 beamish
 beamlike
-beamy
+!beamy
 beaten
 beatific
 beauish
@@ -755,7 +755,7 @@ bite-sized
 bitter
 bitty
 bitumen
-bixbite
+!bixbite
 bizarre
 black
 black-coated
@@ -793,7 +793,7 @@ bloodshot
 bloodsucking
 bloodthirsty
 blotchy
-blousy
+!blousy
 blowsy
 blowy
 blowzy
@@ -894,7 +894,7 @@ broadish
 brocatel
 brocatello
 broke
-broken
+!broken
 broken-down
 broken-hearted
 brokenhearted
@@ -925,7 +925,7 @@ bumbling
 bumpkinish
 bumpkinly
 bumpy
-buoyant
+!buoyant
 burdensome
 bureaucratic
 burglarious
@@ -945,7 +945,7 @@ butterfingered
 buttery
 byzantine
 byzantium
-cabbagy
+!cabbagy
 cacophonophilic
 cacotopic
 cactus-like
@@ -1248,7 +1248,7 @@ chronometric
 chronometrical
 chrysophilic
 chrysoprase
-chubby
+!chubby
 chuckleheaded
 chuffy
 chummy
@@ -1300,7 +1300,7 @@ claimable
 clairvoyant
 clamlike
 clammy
-clandestine
+!clandestine
 clannish
 class-conscious
 classic
@@ -1358,7 +1358,7 @@ cloudy
 clown-like
 clownish
 clubbable
-clubby
+!clubby
 clubfooted
 clueless
 clumpish
@@ -1427,7 +1427,7 @@ combative
 combustible
 combustive
 comedial
-comely
+!comely
 comfortable
 comfortless
 comfy
@@ -1551,7 +1551,7 @@ confident
 confidential
 configurational
 configurative
-confineable
+!confineable
 confined
 confirmable
 confirmatory
@@ -1608,7 +1608,7 @@ constrained
 constrictive
 constringent
 construable
-constructible
+!constructible
 constuctional
 constuctive
 consumable
@@ -1919,7 +1919,7 @@ cured
 curious
 curium
 curly
-curmudgeonly
+!curmudgeonly
 current
 curricular
 cursed
@@ -2031,7 +2031,7 @@ declinational
 declinatory
 decomposable
 decomposed
-decontaminative
+!decontaminative
 decorated
 decorative
 decorous
@@ -2040,7 +2040,7 @@ dedicated
 deducible
 deductible
 deductive
-deep
+!deep
 deerskin
 defaceable
 defamatory
@@ -2101,11 +2101,11 @@ demandable
 demanding
 demented
 democratic
-demoded
+!demoded
 demographic
 demographical
 demoniac
-demonian
+!demonian
 demonic
 demonstrable
 demonstrational
@@ -2134,7 +2134,7 @@ deodorizing
 departed
 departmental
 dependable
-dependent
+!dependent
 depictive
 depilatory
 depleted
@@ -2280,7 +2280,7 @@ dihydrated
 dihydric
 dilapidated
 dilligent
-dim
+!dim
 dim-witted
 diminished
 diminutive
@@ -2379,7 +2379,7 @@ dispensable
 dispersible
 dispirited
 dispiriting
-dispiteous
+!dispiteous
 displaceable
 displayed
 displeased
@@ -2646,7 +2646,7 @@ educatory
 eerie
 effaceable
 effectible
-effective
+!effective
 effectual
 effeminate
 effervescent
@@ -2683,7 +2683,7 @@ electrobiological
 electrocardiographic
 electrodynamic
 electrokinetic
-electroluminescent
+!electroluminescent
 electrolytic
 electromagnetic
 electromechanical
@@ -2756,7 +2756,7 @@ emptiable
 emptied
 empty
 empty-handed
-empty-headed
+!empty-headed
 empyrean
 emulsible
 emulsifiable
@@ -2828,7 +2828,7 @@ enumerable
 enunciable
 enunciatory
 enuncuative
-enviable
+!enviable
 envious
 environmental
 enzymatic
@@ -3042,7 +3042,7 @@ extreme
 extrovert
 extroverted
 extrovertish
-extrovertive
+!extrovertive
 exuberant
 exultant
 eyeable
@@ -3058,7 +3058,7 @@ fadable
 faded
 faint
 fainthearted
-faintish
+!faintish
 fair
 fairish
 fairylike
@@ -3180,14 +3180,14 @@ filthy
 final
 financial
 findable
-fine
+!fine
 fine-drawn
 fine-grain
 fine-grained
 fineable
 finespun
 finical
-finicky
+!finicky
 finnicky
 fire breathing
 fire retardant
@@ -3367,7 +3367,7 @@ fretful
 freudian
 friended
 friendless
-friendly
+!friendly
 friggatriskaidekaphobic
 frightenable
 frightened
@@ -3516,7 +3516,7 @@ ghetto
 ghostlike
 ghostly
 !ghoulish
-giant
+!giant
 giddied
 giddy
 giddying
@@ -3578,7 +3578,7 @@ godforsaken
 godless
 godlike
 godly
-godsent
+!godsent
 gold
 gold-filled
 gold-foil
@@ -3612,7 +3612,7 @@ governmental
 grabbable
 graceful
 graceless
-gracious
+!gracious
 gradable
 grained
 grainy
@@ -3667,7 +3667,7 @@ grim
 grindable
 grisly
 groggy
-groovelike
+!groovelike
 groovy
 gross
 grotesque
@@ -3719,7 +3719,7 @@ half-crazy
 half-dazed
 half-democratic
 half-destroyed
-half-divine
+!half-divine
 half-feminine
 half-hypnotised
 half-intellectual
@@ -3830,7 +3830,7 @@ helpful
 helpless
 hemihedral
 hemispheric
-hemispherical
+!hemispherical
 hemispheroidal
 hemophobic
 hemp
@@ -4125,7 +4125,7 @@ imperious
 impertinent
 impervious
 impious
-impish
+!impish
 impolite
 important
 imported
@@ -4248,7 +4248,7 @@ innovative
 inodorous
 inopportune
 inorganic
-inquiring
+!inquiring
 inquisitive
 insane
 insanitary
@@ -4319,7 +4319,7 @@ intermarine
 intermediate
 intermetallic
 internal
-international
+!international
 internuclear
 interoceanic
 interparenthetic
@@ -4359,7 +4359,7 @@ inverse
 inversive
 invigorative
 invincible
-invisibility
+!invisibility
 invisible
 involuntary
 involved
@@ -4649,7 +4649,7 @@ lineny
 linguistic
 linoleum
 linty
-lion-hearted
+!lion-hearted
 lionesque
 lionly
 lipophobic
@@ -4717,7 +4717,7 @@ lucky
 ludicrous
 lukewarm
 luminescent
-luminiferous
+!luminiferous
 luminous
 lumpish
 lumpy
@@ -4773,7 +4773,7 @@ malacological
 maladroit
 malcontent
 male
-maleficent
+!maleficent
 malevolent
 malicious
 malignant
@@ -4804,7 +4804,7 @@ marital
 maritime
 marked
 marmatite
-maroon
+!maroon
 married
 marshlike
 !marshy
@@ -4968,7 +4968,7 @@ misogynistic
 misogynous
 missing
 mistrustful
-misty
+!misty
 misunderstood
 mobile
 moderate
@@ -5072,7 +5072,7 @@ naggy
 naive
 naked
 naptunium
-narcissistic
+!narcissistic
 narcistic
 narcoleptic
 narrow
@@ -5139,7 +5139,7 @@ newspaperish
 newsworthy
 newsy
 next
-nice
+!nice
 nickel
 nickelic
 nickeliferous
@@ -5280,7 +5280,7 @@ nonodoriferous
 nonodorous
 nonorganic
 nonpartisan
-nonphilosophic
+!nonphilosophic
 nonphilosophical
 nonplanetary
 nonpoisonous
@@ -5299,7 +5299,7 @@ nonpsychologic
 nonpsychological
 nonpsychopathic
 nonpsychotic
-nonrational
+!nonrational
 nonrationalised
 !nonrationalistic
 nonrationalistical
@@ -5501,7 +5501,7 @@ ossivorous
 ostentatious
 ostracized
 other
-otherworldly
+!otherworldly
 outdoor
 outdoorsy
 outer
@@ -5790,7 +5790,7 @@ pharmaceutical
 pharmacologic
 pharmacological
 phenocryst
-phenomenal
+!phenomenal
 philalethic
 philanthropic
 philharmonic
@@ -5898,7 +5898,7 @@ poisoned
 pokeable
 polar
 polarized
-polished
+!polished
 polite
 political
 polka-dotted
@@ -6386,7 +6386,7 @@ reclinable
 reclining
 recloseable
 reclusive
-recognized
+!recognized
 recommendable
 recompensable
 reconcilable
@@ -6532,7 +6532,7 @@ resuscitative
 retail
 retaliative
 retaliatory
-retired
+!retired
 retiring
 retouchable
 retrievable
@@ -6674,7 +6674,7 @@ sanidine
 sanitarian
 sanitary
 sapient
-sapphire
+!sapphire
 sappy
 sarcastic
 sarcophilic
@@ -6812,7 +6812,7 @@ self-hypnotic
 self-hypnotised
 self-indulgent
 self-loving
-self-pleased
+!self-pleased
 self-pleasing
 self-righteous
 self-satisfied
@@ -6934,7 +6934,7 @@ shaded
 shadeful
 shadowed
 shadowgraphic
-shadowy
+!shadowy
 shady
 shaggy
 shagreen
@@ -6975,7 +6975,7 @@ shoddy
 shogunal
 short
 short-circuited
-short-handed
+!short-handed
 short-sighted
 short-tempered
 short-term
@@ -6986,7 +6986,7 @@ shrewd
 shrinkable
 shrubby
 shrunken
-shy
+!shy
 sibling
 sick
 sickening
@@ -7047,7 +7047,7 @@ sketchy
 skilful
 skilled
 skimpy
-skinny
+!skinny
 skipping
 skittish
 sky-blue
@@ -7117,7 +7117,7 @@ snide
 snippy
 snively
 snobbish
-snoopy
+!snoopy
 snooty
 snoozy
 snotty
@@ -7125,7 +7125,7 @@ snow-clad
 snow-white
 snowbound
 snowcapped
-snowy
+!snowy
 snug
 snugging
 so-called
@@ -7133,7 +7133,7 @@ soaked
 soap-like
 soaplike
 soapstone
-soapsudsy
+!soapsudsy
 soapy
 sociable
 social
@@ -7190,7 +7190,7 @@ soured
 sourish
 southbound
 southeastern
-southeastward
+!southeastward
 southern
 southernmost
 southmost
@@ -7438,7 +7438,7 @@ suboceanic
 subordinate
 subpentagonal
 subpericardiac
-subpericardial
+!subpericardial
 subpericranial
 subpolygonal
 subpyramidal
@@ -7524,7 +7524,7 @@ supercilious
 supercolossal
 superconservative
 supercriminal
-supercurious
+!supercurious
 superdemocratic
 superdesirous
 superdifficult
@@ -7590,7 +7590,7 @@ surly
 surprised
 surprising
 surreal
-surreptitious
+!surreptitious
 susceptible
 suspect
 suspicious
@@ -7598,7 +7598,7 @@ sustainable
 svelte
 swallowable
 swampy
-swanky
+!swanky
 swash-buckling
 sweated
 sweating
@@ -7721,7 +7721,7 @@ tense
 tenuous
 terdekaphobia
 teriyaki
-termitic
+!termitic
 terra-cotta
 terrazzo
 terrestrial
@@ -7899,7 +7899,7 @@ trigonometric
 trigonometrical
 trigonous
 trihedral
-trilateral
+!trilateral
 trilinear
 triliteral
 trimetallic
@@ -7969,7 +7969,7 @@ ultratropical
 umbral
 unable
 unacademic
-unacademical
+!unacademical
 unacceptable
 unaccepted
 unacidic
@@ -7992,7 +7992,7 @@ unagricultural
 unalgebraical
 unalienated
 unallegorical
-unallegorised
+!unallegorised
 unallergic
 unalliterated
 unalliterative
@@ -8154,7 +8154,7 @@ undespondent
 undespotic
 undestined
 undestitute
-undestroyed
+!undestroyed
 undestructible
 undestructive
 undevilish
@@ -8317,7 +8317,7 @@ unlit
 unliterary
 unliterate
 unlovable
-unloved
+!unloved
 unlovely
 unlucky
 unlunar
@@ -8514,7 +8514,7 @@ untheatric
 untheistic
 untheistical
 untheologic
-untheological
+!untheological
 unthinkable
 unthinking
 untidied
@@ -8600,7 +8600,7 @@ valued
 vampiric
 vanilla
 vanillic
-vanitied
+!vanitied
 vanquishable
 vapid
 vaporescent

@@ -2,7 +2,7 @@ aardvark
 abacus
 abalone
 abdomen
-!abdominal
+~abdominal
 ~above
 abscess
 absinthe
@@ -3989,7 +3989,7 @@ viewer
 viewfinder
 viewpoint
 vigil
-!vigilance
+~vigilance
 vigilante
 vignette
 vigor

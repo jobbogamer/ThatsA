@@ -23,7 +23,6 @@ abnormal
 abolitionary
 abominable
 aboriginal
-~above
 aboveground
 abrupt
 !absent
@@ -89,7 +88,6 @@ adhesive
 adjacent
 adjoining
 administrative
-!adobe
 adolescent
 adorable
 adored
@@ -350,7 +348,6 @@ antimonarchistic
 antimonarchy
 antimoral
 antimoralistic
-!antimorality
 antimystical
 antinational
 antinationalisation
@@ -755,7 +752,6 @@ bite-sized
 bitter
 bitty
 bitumen
-~bixbite
 bizarre
 black
 black-coated
@@ -1396,7 +1392,6 @@ coherent
 cold
 cold-blooded
 cold-hearted
-!cold-heartedly
 cold-water
 coldish
 collaborative
@@ -1905,7 +1900,6 @@ cultured
 cultureless
 cumbersome
 cumbrous
-!cummy
 cumulative
 cuneiform
 !cunning
@@ -2667,7 +2661,6 @@ egomaniacal
 egotistic
 egotistical
 egregious
-!einsteinium
 ejective
 elaborate
 elaborative
@@ -3306,7 +3299,6 @@ foreign
 foreknowable
 forensic
 foreseeable
-~forest
 forestial
 forfeitable
 forgeable
@@ -4359,7 +4351,6 @@ inverse
 inversive
 invigorative
 invincible
-~invisibility
 invisible
 involuntary
 involved
@@ -6625,7 +6616,6 @@ ruinable
 ruinous
 ruling
 runic
-!running
 runtish
 runty
 rural
@@ -7271,7 +7261,6 @@ sprightly
 !spring-loaded
 springy
 sprucing
-!spy
 squalid
 square
 squarish
@@ -7885,7 +7874,6 @@ treelike
 !tremendous
 trendy
 tribal
-!trichophobia
 trickish
 tricksome
 tricksy
